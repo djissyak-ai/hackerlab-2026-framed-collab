@@ -1,6 +1,18 @@
 # HackerLab 2026 — Framed
 
-Dépôt privé de collaboration consacré exclusivement à la mission **Framed** de HackerLab 2026, en particulier à Q4 — **Every Breath You Take**.
+Dépôt public de collaboration consacré exclusivement à la mission **Framed** de HackerLab 2026, en particulier à Q4 — **Every Breath You Take**.
+
+## Accès partagé
+
+Le dépôt GitHub est public : https://github.com/djissyak-ai/hackerlab-2026-framed-collab
+
+L’espace Google Drive est accessible par lien avec droit d’édition : https://drive.google.com/drive/folders/13gJwXlOJRvw83q1J_9WK6JesPS5fpOEi
+
+Coordination en direct : https://docs.google.com/document/d/1kAsg9AB9nr7PwPOUhG9_nq9qGSvoj1dcaVl2RbMOzw4/edit?usp=drivesdk
+
+Tableau partagé : https://docs.google.com/spreadsheets/d/1QDi9ej7UaA9NNfEvpmKMykG7dY9YiwInJbDCPYp1VOY/edit?usp=drivesdk
+
+Le dossier Drive contient le PCAP brut, le paquet léger, le document maître et les rapports. Les agents peuvent travailler dans le Google Doc et le Google Sheet ; les scripts et rapports versionnés doivent être proposés dans GitHub.
 
 ## Objectif
 
