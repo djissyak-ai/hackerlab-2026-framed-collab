@@ -19,9 +19,11 @@ Ce fichier recense les artefacts réellement connus. Un chemin local n’impliqu
 | Nom | `proxy-bct.pcapng` |
 | Chemin local connu | `/home/ubuntu/proxy-bct.pcapng` |
 | Copie dans Git normal | Non, fichier trop volumineux pour la limite standard |
-| Taille observée dans l’historique | Environ 883 Mio, valeur à mesurer localement |
-| Hash SHA-256 | À calculer dans l’environnement qui possède le fichier |
+| Taille vérifiée | `926549460` octets |
+| Hash SHA-256 | `06dbb94fba5d38c8aa453e7ffe3f59de42df3f5e9589b2156a11d9498b100683` |
 | Provenance | PCAP brut de Framed Q4, selon l’historique de travail |
+| Release GitHub privée | [framed-artifacts-v1](https://github.com/djissyak-ai/hackerlab-2026-framed-collab/releases/tag/framed-artifacts-v1) |
+| URL directe de téléchargement | `https://github.com/djissyak-ai/hackerlab-2026-framed-collab/releases/download/framed-artifacts-v1/proxy-bct.pcapng` |
 | Utilisation | Analyse statique uniquement |
 
 Le PCAP a été retiré de l’historique Git avant la publication du dépôt parce qu’un fichier d’environ 883 Mio dépasse la limite GitHub de 100 Mio pour un fichier normal. Il peut être partagé séparément par Git LFS, une release privée ou un stockage de fichiers contrôlé. Toute copie doit être comparée par hash.
